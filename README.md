@@ -1,2 +1,7 @@
 # Calculator
-Windows Forms calculator for simple operations and equations.
+Made in Windows Forms. Using .Net Framework
+Functions:
+-Simple calculator
+-Temperature converter
+-Equation calculator
+
